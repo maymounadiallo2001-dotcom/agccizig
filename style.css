@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    background-color: white;
+    background-image: url(f.jpg);
+}
+table{
+    text-align: center;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 25px;
+}
